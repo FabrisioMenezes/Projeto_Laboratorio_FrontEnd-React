@@ -4,7 +4,7 @@ Projeto da matéria de Laboratório de Engenharia de Software
 
 ## Requisitos
 
-- Possuir NodeJs na versão 14.18.1
+Possuir NodeJs na versão 14.18.1
 
 ## Rodar projeto
 
