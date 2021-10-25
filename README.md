@@ -7,6 +7,8 @@ Projeto da matéria de Laboratório de Engenharia de Software
 Possuir NodeJs na versão 14.18.1
 
 ## Rodar projeto
+### `npm install`
+Uma única vez
 
 ### `npm start`
 
